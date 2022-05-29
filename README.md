@@ -15,22 +15,52 @@ Seorang peneliti melakukan penelitian mengenai pengaruh aktivitas 𝐴 terhadap 
 
 Berdasarkan data pada tabel diatas, diketahui kadar saturasi oksigen dari responden ke-3 ketika belum melakukan aktivitas 𝐴 sebanyak 67, dan setelah melakukan aktivitas 𝐴 sebanyak 70.
 
+### Data 
+
+<img width="1440" alt="DATA1" src="https://user-images.githubusercontent.com/85855400/170874430-860cb343-f6cb-41e0-ab84-19327e7adcd8.png">
+
 ### 1A
 Carilah Standar Deviasi dari data selisih pasangan pengamatan tabel diatas
+
+<img width="1440" alt="1A" src="https://user-images.githubusercontent.com/85855400/170874465-f18bc099-42c8-4c9d-be9b-99b127b216b8.png">
+
+
 ### 1B
 carilah nilai t (p-value)
+
+<img width="1440" alt="1B" src="https://user-images.githubusercontent.com/85855400/170874490-ca290f88-fa09-4922-b0cb-c7846f96c316.png">
+
+
 ### 1C
 tentukanlah apakah terdapat pengaruh yang signifikan secara statistika dalam hal kadar saturasi oksigen , sebelum dan sesudah melakukan aktivitas 𝐴 jika diketahui tingkat signifikansi 𝛼 = 5% serta H0 : “tidak ada pengaruh yang signifikan secara statistika dalam hal kadar saturasi oksigen , sebelum dan sesudah melakukan aktivitas 𝐴”
+
+<img width="1440" alt="1C" src="https://user-images.githubusercontent.com/85855400/170874504-02bf1397-ac3f-49bd-b797-6a589b8deb0c.png">
 
 # Soal 2
 Diketahui bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahun. Untuk menguji klaim ini, 100 pemilik mobil yang dipilih secara acak diminta untuk mencatat jarak yang mereka tempuh. Jika sampel acak menunjukkan rata-rata 23.500 kilometer dan standar deviasi 3900 kilometer. (Kerjakan menggunakan library seperti referensi pada modul).
 
+### Data
+
+<img width="1440" alt="DATA2" src="https://user-images.githubusercontent.com/85855400/170874632-ae7cf0ea-21ea-4bb5-93bc-756298b1c133.png">
+
+
 ### 2A
 Apakah Anda setuju dengan klaim tersebut?
+
+<img width="1440" alt="2A" src="https://user-images.githubusercontent.com/85855400/170874643-95f6a55a-12fe-4e58-a537-6396f3ce3f04.png">
+
+
 ### 2B
 Jelaskan maksud dari output yang dihasilkan!
+
+<img width="1440" alt="2B" src="https://user-images.githubusercontent.com/85855400/170874749-550b6155-709e-4ee5-a9b0-92988e377de0.png">
+
+
 ### 2C
 Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!
+
+<img width="1440" alt="2C" src="https://user-images.githubusercontent.com/85855400/170874686-d9f7305d-7e45-4d2d-84ad-d8ad27debf86.png">
+
 
 # Soal 3
 Diketahui perusahaan memiliki seorang data analyst ingin memecahkan permasalahan pengambilan keputusan dalam perusahaan tersebut. Selanjutnya didapatkanlah data berikut dari perusahaan saham tersebut.
@@ -41,16 +71,37 @@ Dari data diatas berilah keputusan serta kesimpulan yang didapatkan dari hasil d
 
 ### 3A
 H0 dan H1
+
+<img width="1440" alt="3A" src="https://user-images.githubusercontent.com/85855400/170874760-34faf5d8-8e32-4d3c-8805-56fa5da5f6ac.png">
+
 ### 3B
 Hitung Sampel Statistik
+
+
+
 ### 3C
 Lakukan Uji Statistik (df =2)
+
+<img width="1440" alt="3C" src="https://user-images.githubusercontent.com/85855400/170874823-f56236f3-73cc-406d-9627-6a61275ed6e8.png">
+
+
 ### 3D
 Nilai Kritikal
+
+<img width="1440" alt="3D" src="https://user-images.githubusercontent.com/85855400/170874831-80282075-ae09-4cd9-be79-663222d2eaa6.png">
+
+
 ### 3E
 Keputusan
+
+<img width="1440" alt="3E" src="https://user-images.githubusercontent.com/85855400/170874836-5578859c-8c89-407c-88ec-c2abd0a0126c.png">
+
+
 ### 3F
 Kesimpulan
+
+<img width="1440" alt="3F" src="https://user-images.githubusercontent.com/85855400/170874927-dc98d5e2-abcf-45e7-82e4-eccf59f3d1b0.png">
+
 
 # Soal 4
 Seorang Peneliti sedang meneliti spesies dari kucing di ITS . Dalam penelitiannya ia mengumpulkan data tiga spesies kucing yaitu kucing oren, kucing hitam dan kucing putih dengan panjangnya masing-masing.
